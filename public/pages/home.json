@@ -1,246 +1,195 @@
-
 {
-  "meta": {
-    "title": "Ashapura Brass Industries - Precision Engineering Excellence",
-    "description": "Leading manufacturer of precision brass components for automotive, pneumatic, aerospace, and hydraulic applications"
-  },
   "hero": {
-    "type": "video",
-    "enabled": true,
-    "title": "Precision Brass Engineering Excellence",
-    "subtitle": "Manufacturing superior brass components for critical applications",
-    "backgroundVideo": "https://dm0qx8t0i9gc9.cloudfront.net/watermarks/video/NL0L5N5Rgimkt8edi/videoblocks-authomatic-lathe-drill-the-thread-and-rounds-the-edges-of-the-part_seemoxrjtx__456bda19ebbb32c7b3b6e1208019deab__P1080.mp4?response-content-disposition=attachment%3Bfilename%3Dauthomatic-lathe-drill-the-thread-and-rounds-the-edges-of-the-part-SBV-327456926-preview.mp4",
-    "backgroundImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=2000&q=80",
     "cta": {
-      "primary": "Explore Products",
+      "primary": "Explore Our Hinges",
+      "secondary": "Get a Quote",
       "primaryAction": "/products",
-      "secondary": "Get Quote",
       "secondaryAction": "/contact"
-    }
+    },
+    "type": "video",
+    "title": "Precision Steel Solutions for 25 Years",
+    "enabled": true,
+    "subtitle": "Manufacturing Superior Door Hardware with Unmatched Quality and Durability",
+    "backgroundImage": "https://images.unsplash.com/photo-1666618090858-fbcee636bd3e",
+    "backgroundVideo": "https://hthusloogpnfqefzskvh.supabase.co/storage/v1/object/public/videos//cnc%20machining%20brass.mp4"
+  },
+  "meta": {
+    "title": "Ganesh Steel - Premium Door Hardware Manufacturing",
+    "description": "Leading manufacturer of high-quality steel door hinges and stoppers with 25 years of engineering excellence."
   },
   "sections": {
+    "cta": {
+      "type": "cta",
+      "title": "Ready to Upgrade Your Door Hardware?",
+      "enabled": true,
+      "subtitle": "Experience precision engineering and reliable performance with Ganesh Steel solutions",
+      "primaryCTA": {
+        "text": "View Products",
+        "action": "/products"
+      },
+      "secondaryCTA": {
+        "text": "Contact Sales",
+        "action": "/contact"
+      }
+    },
+    "faqs": {
+      "type": "faqs",
+      "items": [
+        {
+          "id": "minimum-order",
+          "answer": "We offer flexible ordering options for both small and large volume requirements, with competitive pricing for bulk orders.",
+          "question": "What are your minimum order quantities?"
+        },
+        {
+          "id": "lead-time",
+          "answer": "Standard lead times range from 2-4 weeks depending on product complexity and order volume.",
+          "question": "What are your typical production lead times?"
+        },
+        {
+          "id": "quality",
+          "answer": "We maintain rigorous quality control processes, using precision manufacturing techniques and conducting comprehensive inspections on all products.",
+          "question": "How do you ensure product quality?"
+        },
+        {
+          "id": "customization",
+          "answer": "Yes, we provide custom design and manufacturing services to meet specific client requirements and technical specifications.",
+          "question": "Do you offer custom hinge solutions?"
+        }
+      ],
+      "title": "Frequently Asked Questions",
+      "enabled": true,
+      "subtitle": "Get answers to common questions about our door hardware solutions"
+    },
+    "stats": {
+      "type": "stats",
+      "items": [
+        {
+          "label": "Years Experience",
+          "number": "25+"
+        },
+        {
+          "label": "Product Variants",
+          "number": "500+"
+        },
+        {
+          "label": "Countries Served",
+          "number": "15+"
+        },
+        {
+          "label": "Satisfied Clients",
+          "number": "5000+"
+        }
+      ],
+      "title": "Our Achievements",
+      "enabled": true,
+      "subtitle": "Delivering excellence through decades of specialized manufacturing"
+    },
+    "expertise": {
+      "type": "expertise",
+      "title": "Industries We Serve",
+      "enabled": true,
+      "sectors": [
+        {
+          "id": "construction",
+          "name": "Construction",
+          "image": "https://images.unsplash.com/photo-1534275288878-f0a62313e1d5",
+          "description": "Providing robust door hardware solutions for residential and commercial construction projects",
+          "applications": [
+            "Residential Door Hinges",
+            "Commercial Building Hardware",
+            "Industrial Door Stoppers",
+            "Architectural Metal Components"
+          ]
+        },
+        {
+          "id": "manufacturing",
+          "name": "Manufacturing",
+          "image": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e",
+          "description": "Engineered metal components for diverse manufacturing applications and equipment",
+          "applications": [
+            "Machine Frame Hinges",
+            "Equipment Access Components",
+            "Precision Metal Brackets",
+            "Custom Metal Fabrications"
+          ]
+        }
+      ],
+      "subtitle": "Specialized Solutions Across Multiple Sectors",
+      "description": "Ganesh Steel delivers high-performance metal components with precision engineering and consistent quality across diverse industrial applications."
+    },
     "whyChooseUs": {
       "type": "why-choose-us",
-      "enabled": true,
-      "title": "Why Choose Ashapura Brass Industries",
-      "subtitle": "Excellence in precision brass manufacturing",
       "items": [
         {
           "id": "quality",
-          "icon": "award",
-          "title": "Superior Quality",
-          "description": "ISO 9001:2015 certified manufacturing processes ensuring consistent quality and reliability in every component."
+          "icon": "shield-check",
+          "title": "Uncompromising Quality Standards",
+          "description": "Our commitment to excellence ensures every product meets the highest industry standards through rigorous quality control and precision manufacturing."
         },
         {
           "id": "experience",
-          "icon": "clock",
-          "title": "35+ Years Experience",
-          "description": "Over three decades of expertise in precision brass machining and manufacturing complex components."
+          "icon": "calendar",
+          "title": "25 Years of Manufacturing Expertise",
+          "description": "Decades of specialized experience translate into superior product design, reliability, and technical knowledge in metal component manufacturing."
         },
         {
           "id": "technology",
           "icon": "cog",
-          "title": "Advanced Technology",
-          "description": "State-of-the-art CNC machines and automated production lines for precision manufacturing."
+          "title": "Advanced Manufacturing Technology",
+          "description": "We leverage cutting-edge manufacturing technologies and equipment to deliver consistently precise and high-performance metal components."
         }
-      ]
+      ],
+      "title": "Why Choose Ganesh Steel",
+      "enabled": true,
+      "subtitle": "Your Trusted Partner in Precision Metal Manufacturing"
     },
     "aboutusintro": {
       "type": "about-us-intro",
+      "image": "https://images.unsplash.com/photo-1517420704952-d9f39e95b43e",
+      "title": "About Ganesh Steel",
       "enabled": true,
-      "title": "About Ashapura Brass Industries",
-      "subtitle": "Leading precision brass component manufacturer",
-      "description": "Established in 1985, Ashapura Brass Industries has been at the forefront of precision brass manufacturing, serving automotive, pneumatic, aerospace, and hydraulic industries with superior quality components and exceptional customer service.",
-      "image": "https://images.unsplash.com/photo-1565043589221-1a6fd9ae45c7?auto=format&fit=crop&w=800&q=80",
+      "subtitle": "Precision Engineering, Reliable Solutions",
       "highlights": [
+        "25+ Years of Manufacturing Excellence",
         "ISO 9001:2015 Certified",
-        "500+ Product Variants Available",
-        "50+ Countries Served",
-        "24/7 Technical Support"
-      ]
-    },
-    "stats": {
-      "type": "stats",
-      "enabled": true,
-      "title": "Our Manufacturing Achievements",
-      "subtitle": "Delivering excellence across global markets",
-      "items": [
-        { "number": "35+", "label": "Years Experience" },
-        { "number": "500+", "label": "Product Variants" },
-        { "number": "50+", "label": "Countries Served" },
-        { "number": "10000+", "label": "Satisfied Clients" }
-      ]
-    },
-    "expertise": {
-      "type": "expertise",
-      "enabled": true,
-      "title": "Our Industry Expertise",
-      "subtitle": "Specialized brass components for critical applications",
-      "description": "We serve diverse industries with precision-engineered brass components that meet the highest quality standards.",
-      "sectors": [
-        {
-          "id": "automotive",
-          "name": "Automotive Industry",
-          "description": "High-precision brass components for automotive systems including engine parts and fuel delivery systems.",
-          "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?auto=format&fit=crop&w=600&q=80",
-          "applications": [
-            "Engine Components",
-            "Fuel Systems",
-            "Brake Systems",
-            "Transmission Parts",
-            "Cooling Systems"
-          ]
-        },
-        {
-          "id": "electrical",
-          "name": "Electrical Industry",
-          "description": "Precision electrical components including terminals, connectors, and switching elements.",
-          "image": "https://images.unsplash.com/photo-1483058712412-4245e9b90334?auto=format&fit=crop&w=600&q=80",
-          "applications": [
-            "Electrical Contacts",
-            "Switch Connectors",
-            "Terminal Switches",
-            "Circuit Breakers",
-            "Electronic Components"
-          ]
-        },
-        {
-          "id": "construction",
-          "name": "Construction Industry",
-          "description": "Durable brass fittings and hardware for construction and architectural applications.",
-          "image": "https://images.unsplash.com/photo-1449157291145-7efd050a4d0e?auto=format&fit=crop&w=600&q=80",
-          "applications": [
-            "Plumbing Fittings",
-            "Hardware Components",
-            "Architectural Fittings",
-            "Structural Components",
-            "Decorative Elements"
-          ]
-        },
-        {
-          "id": "marine",
-          "name": "Marine Industry",
-          "description": "Corrosion-resistant brass components designed for marine and offshore applications.",
-          "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&fit=crop&w=600&q=80",
-          "applications": [
-            "Propeller Shafts",
-            "Marine Valves",
-            "Hull Fittings",
-            "Navigation Equipment",
-            "Deck Hardware"
-          ]
-        },
-        {
-          "id": "aerospace",
-          "name": "Aerospace Industry",
-          "description": "High-precision components meeting stringent aerospace quality and safety standards.",
-          "image": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?auto=format&fit=crop&w=600&q=80",
-          "applications": [
-            "Aircraft Components",
-            "Hydraulic Fittings",
-            "Navigation Systems",
-            "Control Mechanisms",
-            "Safety Equipment"
-          ]
-        },
-        {
-          "id": "industrial",
-          "name": "Industrial Machinery",
-          "description": "Robust brass components for heavy machinery and industrial equipment applications.",
-          "image": "https://images.unsplash.com/photo-1565043589221-1a6fd9ae45c7?auto=format&fit=crop&w=600&q=80",
-          "applications": [
-            "Machine Components",
-            "Hydraulic Fittings",
-            "Valve Bodies",
-            "Pressure Vessels",
-            "Heat Exchangers"
-          ]
-        },
-        {
-          "id": "hvac",
-          "name": "HVAC Systems",
-          "description": "Precision fittings and components for heating, ventilation, and air conditioning systems.",
-          "image": "https://images.unsplash.com/photo-1621905251189-08b45d6a269e?auto=format&fit=crop&w=600&q=80",
-          "applications": [
-            "Pipe Fittings",
-            "Valve Components",
-            "Control Parts",
-            "Distribution Systems",
-            "System Components"
-          ]
-        },
-        {
-          "id": "oil-gas",
-          "name": "Oil & Gas",
-          "description": "High-pressure resistant components for oil and gas exploration and processing equipment.",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-          "applications": [
-            "Drilling Equipment",
-            "Pipeline Fittings",
-            "Pressure Gauges",
-            "Control Valves",
-            "Safety Equipment"
-          ]
-        }
-      ]
+        "500+ Product Variants",
+        "Global Manufacturing Capabilities",
+        "Custom Engineering Solutions"
+      ],
+      "description": "Founded in 1998, Ganesh Steel has established itself as a leading manufacturer of high-quality steel door hinges and stoppers. We combine traditional craftsmanship with modern engineering to deliver reliable, precision-engineered metal components for diverse industrial applications."
     },
     "testimonials": {
       "type": "testimonials",
-      "enabled": true,
-      "title": "What Our Clients Say",
-      "subtitle": "Trusted by industry leaders worldwide",
       "items": [
         {
           "id": "client-1",
-          "name": "Rajesh Kumar",
-          "company": "AutoTech Engineering Ltd",
-          "designation": "Purchase Manager",
-          "content": "Ashapura Brass Industries has consistently delivered high-quality components on time. Their precision and attention to detail is remarkable.",
+          "name": "Rajesh Sharma",
+          "image": "https://images.unsplash.com/photo-1560250097-0b93528c311a",
           "rating": 5,
-          "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=150&q=80"
+          "company": "BuildTech Constructions",
+          "content": "Ganesh Steel's door hardware consistently meets our high standards. Their attention to detail and reliable products have been crucial to our project success.",
+          "designation": "Procurement Manager"
         },
         {
           "id": "client-2",
-          "name": "Sarah Johnson",
-          "company": "Global Industrial Solutions",
-          "designation": "Procurement Director",
-          "content": "We've been working with Ashapura for over 10 years. Their quality standards and customer service are exceptional.",
+          "name": "Amit Patel",
+          "image": "https://images.unsplash.com/photo-1615109398623-88346a0ba3c8",
           "rating": 5,
-          "image": "https://images.unsplash.com/photo-1494790108755-2616b612b1a7?auto=format&fit=crop&w=150&q=80"
+          "company": "Industrial Machinery Solutions",
+          "content": "We've partnered with Ganesh Steel for over a decade. Their custom metal components are always precise, durable, and delivered on time.",
+          "designation": "Operations Director"
         }
-      ]
-    },
-    "faqs": {
-      "type": "faqs",
+      ],
+      "title": "Client Success Stories",
       "enabled": true,
-      "title": "Frequently Asked Questions",
-      "subtitle": "Common questions about our products and services",
-      "items": [
-        {
-          "id": "minimum-order",
-          "question": "What is the minimum order quantity?",
-          "answer": "Our minimum order quantity varies by product complexity. For standard items, it's typically 100 pieces, while custom components may require higher quantities."
-        },
-        {
-          "id": "lead-time",
-          "question": "What are the typical lead times?",
-          "answer": "Standard products: 2-3 weeks. Custom components: 4-6 weeks. Rush orders can be accommodated with additional charges."
-        }
-      ]
-    },
-    "cta": {
-      "type": "cta",
-      "enabled": true,
-      "title": "Ready to Experience Precision Excellence?",
-      "subtitle": "Join thousands of satisfied clients who trust Ashapura Brass Industries for their precision manufacturing needs. Get started today.",
-      "primaryCTA": {
-        "text": "View Our Products",
-        "action": "/products"
-      },
-      "secondaryCTA": {
-        "text": "Contact Now",
-        "action": "tel:+91-288-2710234"
-      }
+      "subtitle": "Trusted by Industry Leaders"
     }
+  },
+  "_instructions": {
+    "usage": "Generate dynamic home page content that showcases company strengths and expertise",
+    "purpose": "Home page template with AI generation prompts",
+    "content_tone": "Professional, confident, customer-focused",
+    "icon_options": "Available Lucide icons: award, clock, cog, wrench, truck, headphones, shield, shield-check, star, zap, settings, check-circle, trophy, users, globe, target, trending-up, thumbs-up, lightbulb, heart, cpu, gauge, calendar, package, phone, mail, map-pin",
+    "sections_count": "Sections can be scaled - add/remove items based on company size and offerings"
   }
 }
