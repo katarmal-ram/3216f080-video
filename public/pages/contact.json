@@ -1,50 +1,55 @@
-
 {
-  "meta": {
-    "title": "Contact Us - Ashapura Brass Industries",
-    "description": "Get in touch with Ashapura Brass Industries for your precision brass manufacturing needs"
-  },
   "hero": {
     "type": "image",
+    "title": "Contact Ganesh Steel",
     "enabled": true,
-    "title": "Contact Us",
-    "subtitle": "Get in touch with our experts",
-    "description": "Ready to discuss your brass manufacturing requirements? Contact our team today.",
-    "backgroundImage": "https://images.unsplash.com/photo-1423666639041-f56000c27a9a?auto=format&fit=crop&w=2000&q=80"
+    "subtitle": "We're Ready to Assist You with Your Steel Hardware Needs",
+    "description": "With 25 years of manufacturing expertise, our team is prepared to help you find the perfect door hinges and stoppers for your project. Reach out today for personalized solutions.",
+    "backgroundImage": "https://images.unsplash.com/photo-1517048676732-d65bc9c4d267"
+  },
+  "meta": {
+    "title": "Ganesh Steel - Manufacturing Experts | Get Quote Today",
+    "description": "Contact Ganesh Steel for premium door hinges and stoppers. Expert manufacturers with 25 years of experience. Quick response guaranteed."
   },
   "sections": {
-    "contactInfo": {
-      "type": "contact-info",
-      "enabled": true,
-      "title": "Contact Information",
-      "subtitle": "Multiple ways to reach us",
-      "items": [
-        {
-          "type": "address",
-          "title": "Our Location",
-          "content": "Plot No. 42, Brass Industrial Estate, Jamnagar - 361004, Gujarat, India",
-          "icon": "map-pin"
-        },
-        {
-          "type": "phone",
-          "title": "Phone",
-          "content": "+91 288 271 0234",
-          "icon": "phone"
-        },
-        {
-          "type": "email",
-          "title": "Email",
-          "content": "info@ashapurabrass.com",
-          "icon": "mail"
-        }
-      ]
-    },
     "contactForm": {
       "type": "contact-form",
+      "items": [],
+      "title": "Send Message",
       "enabled": true,
-      "title": "Send us a Message",
-      "subtitle": "Fill out the form and we'll get back to you within 24 hours",
-      "items": []
+      "subtitle": "Fill out the form and we'll get back to you within 24 hours with a comprehensive response"
+    },
+    "contactInfo": {
+      "type": "contact-info",
+      "items": [
+        {
+          "icon": "map-pin",
+          "type": "address",
+          "title": "Our Location",
+          "content": "Ganesh Steel Works, Industrial Area, Maharashtra, India"
+        },
+        {
+          "icon": "phone",
+          "type": "phone",
+          "title": "Call Us",
+          "content": "+91 9876543210"
+        },
+        {
+          "icon": "mail",
+          "type": "email",
+          "title": "Email Us",
+          "content": "info@ganeshsteel.com"
+        },
+        {
+          "icon": "whatsapp",
+          "type": "whatsapp",
+          "title": "WhatsApp Support",
+          "content": "+91 9876543210"
+        }
+      ],
+      "title": "Contact Information",
+      "enabled": true,
+      "subtitle": "Multiple ways to connect with our expert manufacturing team"
     }
   }
 }
